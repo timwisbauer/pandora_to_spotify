@@ -1,0 +1,3124 @@
+{
+    "tracks": [
+  {
+    "track": "Leaving You (Radio Edit)",
+    "artist": "Audien"
+  },
+  {
+    "track": "Elevators (Me & You)",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Through The Fire And Flames",
+    "artist": "DragonForce"
+  },
+  {
+    "track": "Poppin' Bottles",
+    "artist": "T.I."
+  },
+  {
+    "track": "This Is What It Feels Like (Giuseppe Ottaviani Remix)",
+    "artist": "Armin Van Buuren"
+  },
+  {
+    "track": "HYFR (Hell Ya F**king Right) (Feat. Lil Wayne)",
+    "artist": "Drake"
+  },
+  {
+    "track": "N**gas In Paris",
+    "artist": "Kanye West & JAY-Z"
+  },
+  {
+    "track": "Heist",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Faded",
+    "artist": "Alan Walker"
+  },
+  {
+    "track": "Chill Bill Remix (Feat. D.R.A.M., Denzel Curry & Cousin Stizz)",
+    "artist": "Rob $tone"
+  },
+  {
+    "track": "We Still In This B**ch",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "4 Words (To Choke Upon)",
+    "artist": "Bullet For My Valentine"
+  },
+  {
+    "track": "Honor",
+    "artist": "Atreyu"
+  },
+  {
+    "track": "Chop Suey!",
+    "artist": "System Of A Down"
+  },
+  {
+    "track": "And Justice For All",
+    "artist": "Metallica"
+  },
+  {
+    "track": "Through The Never",
+    "artist": "Metallica"
+  },
+  {
+    "track": "Symphony Of Destruction",
+    "artist": "Megadeth"
+  },
+  {
+    "track": "Deify",
+    "artist": "Disturbed"
+  },
+  {
+    "track": "Headstrong",
+    "artist": "Trapt"
+  },
+  {
+    "track": "Enter Sandman",
+    "artist": "Metallica"
+  },
+  {
+    "track": "Under The Knife",
+    "artist": "Rise Against"
+  },
+  {
+    "track": "Afterlife",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "track": "Doomsday",
+    "artist": "Atreyu"
+  },
+  {
+    "track": "Cross Out The Eyes",
+    "artist": "Thursday"
+  },
+  {
+    "track": "Jesus Walks",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Good Times",
+    "artist": "Styles P"
+  },
+  {
+    "track": "Gotta Have It",
+    "artist": "Kanye West & JAY-Z"
+  },
+  {
+    "track": "Coming Undone",
+    "artist": "Korn"
+  },
+  {
+    "track": "You",
+    "artist": "Five Finger Death Punch"
+  },
+  {
+    "track": "Tears Don't Fall",
+    "artist": "Bullet For My Valentine"
+  },
+  {
+    "track": "Chamber The Cartridge",
+    "artist": "Rise Against"
+  },
+  {
+    "track": "The Diary Of Jane",
+    "artist": "Breaking Benjamin"
+  },
+  {
+    "track": "The Curse",
+    "artist": "Disturbed"
+  },
+  {
+    "track": "Seek & Destroy",
+    "artist": "Metallica"
+  },
+  {
+    "track": "Hand Of Blood",
+    "artist": "Bullet For My Valentine"
+  },
+  {
+    "track": "Becoming The Bull",
+    "artist": "Atreyu"
+  },
+  {
+    "track": "Chapter Four",
+    "artist": "Avenged Sevenfold"
+  },
+  {
+    "track": "Behind Closed Doors",
+    "artist": "Rise Against"
+  },
+  {
+    "track": "Prayer Of The Refugee",
+    "artist": "Rise Against"
+  },
+  {
+    "track": "Freak On A Leash",
+    "artist": "Korn"
+  },
+  {
+    "track": "Here To Die",
+    "artist": "Five Finger Death Punch"
+  },
+  {
+    "track": "Let This Go",
+    "artist": "Five Finger Death Punch"
+  },
+  {
+    "track": "Bad And Boujee (Feat. Lil Uzi Vert)",
+    "artist": "Migos"
+  },
+  {
+    "track": "Drop It Like It's Hot",
+    "artist": "Snoop Dogg"
+  },
+  {
+    "track": "In My Mind (Axwell Mix) (Live)",
+    "artist": "Ivan Gough & Feenixpawl"
+  },
+  {
+    "track": "Renegade",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Stars Align",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Hate It Or Love It (feat. The Game, Tony Yayo, Young Buck & Lloyd Banks)",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "Throw It Up",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "Mercy (Feat. Big Sean, Pusha T & 2 Chainz)",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "$ave Dat Money (Feat. Fetty Wap & Rich Homie Quan)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Homecoming",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Still Fly",
+    "artist": "Big Tymers"
+  },
+  {
+    "track": "So Fresh, So Clean",
+    "artist": "Outkast"
+  },
+  {
+    "track": "If I Lose Myself (Alesso Vs OneRepublic)",
+    "artist": "OneRepublic & Alesso"
+  },
+  {
+    "track": "Transcendence",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Pop Style (Feat. The Throne)",
+    "artist": "Drake"
+  },
+  {
+    "track": "I Don't Get Tired (Feat. August Alsina)",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "Strangers (Feat. Myon, Shane 54 & Tove Lo)",
+    "artist": "Seven Lions"
+  },
+  {
+    "track": "You & Me (Feat. Eliza Doolittle) (Flume Remix)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Wake Me Up",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Blame (Feat. John Newman) (R3HAB Trap Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Highway To Hell",
+    "artist": "AC/DC"
+  },
+  {
+    "track": "Take Me Home (Fareoh Remix Radio) (Edit)",
+    "artist": "Cash Cash"
+  },
+  {
+    "track": "Five Hours (Don't Hold Me Back) (Vocal Mix) (Feat. DyCy)",
+    "artist": "Deorro"
+  },
+  {
+    "track": "Sun Models (Feat. Madelyn Grant)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Juke Box Hero",
+    "artist": "Foreigner"
+  },
+  {
+    "track": "If I Lose Myself (Alesso Vs OneRepublic)",
+    "artist": "Alesso"
+  },
+  {
+    "track": "You Don't Own Me (Feat. G-Eazy) (Candyland Remix)",
+    "artist": "Grace"
+  },
+  {
+    "track": "Feel So Close",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Killer Queen",
+    "artist": "Queen"
+  },
+  {
+    "track": "Under Pressure",
+    "artist": "Queen"
+  },
+  {
+    "track": "Edge Of Seventeen",
+    "artist": "Stevie Nicks"
+  },
+  {
+    "track": "Bohemian Rhapsody",
+    "artist": "Queen"
+  },
+  {
+    "track": "I Won't Back Down",
+    "artist": "Tom Petty"
+  },
+  {
+    "track": "Jack And Diane",
+    "artist": "John Mellencamp"
+  },
+  {
+    "track": "We Will Rock You",
+    "artist": "Queen"
+  },
+  {
+    "track": "Livin' On A Prayer",
+    "artist": "Bon Jovi"
+  },
+  {
+    "track": "Welcome To The Jungle",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "track": "Knockin' On Heaven's Door",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "track": "Sweet Emotion",
+    "artist": "Aerosmith"
+  },
+  {
+    "track": "Take On Me",
+    "artist": "A-Ha"
+  },
+  {
+    "track": "Raise Your Weapon (Madeon Extended Remix)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Heartbreaker",
+    "artist": "Pat Benatar"
+  },
+  {
+    "track": "Jump",
+    "artist": "Van Halen"
+  },
+  {
+    "track": "Back In Black",
+    "artist": "AC/DC"
+  },
+  {
+    "track": "Down Under",
+    "artist": "Men At Work"
+  },
+  {
+    "track": "Juke Box Hero (Remix)",
+    "artist": "Foreigner"
+  },
+  {
+    "track": "We Belong",
+    "artist": "Pat Benatar"
+  },
+  {
+    "track": "Crazy Train",
+    "artist": "Ozzy Osbourne"
+  },
+  {
+    "track": "Take On Me (Extended Version)",
+    "artist": "A-Ha"
+  },
+  {
+    "track": "Jessie's Girl",
+    "artist": "Rick Springfield"
+  },
+  {
+    "track": "Lights",
+    "artist": "Journey"
+  },
+  {
+    "track": "The Final Countdown",
+    "artist": "Europe"
+  },
+  {
+    "track": "Sweet Dreams (Are Made Of This)",
+    "artist": "Eurythmics"
+  },
+  {
+    "track": "Don't You (Forget About Me)",
+    "artist": "Simple Minds"
+  },
+  {
+    "track": "You Shook Me All Night Long",
+    "artist": "AC/DC"
+  },
+  {
+    "track": "Dude (Looks Like A Lady)",
+    "artist": "Aerosmith"
+  },
+  {
+    "track": "Love Is A Battlefield",
+    "artist": "Pat Benatar"
+  },
+  {
+    "track": "Separate Ways (2008 Version)",
+    "artist": "Journey"
+  },
+  {
+    "track": "The Boys Of Summer",
+    "artist": "Don Henley"
+  },
+  {
+    "track": "Your Love",
+    "artist": "The Outfield"
+  },
+  {
+    "track": "Peace Of Mind",
+    "artist": "Boston"
+  },
+  {
+    "track": "Centerfold",
+    "artist": "The J. Geils Band"
+  },
+  {
+    "track": "Thunderstruck",
+    "artist": "AC/DC"
+  },
+  {
+    "track": "Renegade",
+    "artist": "Styx"
+  },
+  {
+    "track": "Hotel California",
+    "artist": "Eagles"
+  },
+  {
+    "track": "Free Fallin'",
+    "artist": "Tom Petty"
+  },
+  {
+    "track": "Summer Of '69",
+    "artist": "Bryan Adams"
+  },
+  {
+    "track": "Wheel In The Sky",
+    "artist": "Journey"
+  },
+  {
+    "track": "Carry On Wayward Son",
+    "artist": "Kansas"
+  },
+  {
+    "track": "Another One Bites The Dust",
+    "artist": "Queen"
+  },
+  {
+    "track": "Separate Ways",
+    "artist": "Journey"
+  },
+  {
+    "track": "Still Here",
+    "artist": "Drake"
+  },
+  {
+    "track": "I Need Your Love (Feat. Ellie Goulding) (Radio Edit)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Don't Let Me Down (Feat. Daya)",
+    "artist": "The Chainsmokers"
+  },
+  {
+    "track": "On My Mind",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Gasoline",
+    "artist": "Halsey"
+  },
+  {
+    "track": "Runaway (U & I)",
+    "artist": "Galantis"
+  },
+  {
+    "track": "Burn",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Really Really",
+    "artist": "Kevin Gates"
+  },
+  {
+    "track": "Bankhead",
+    "artist": "T.I."
+  },
+  {
+    "track": "Faded (ODESZA Remix)",
+    "artist": "Zhu"
+  },
+  {
+    "track": "Five Hours",
+    "artist": "Deorro"
+  },
+  {
+    "track": "Superstar",
+    "artist": "Lupe Fiasco"
+  },
+  {
+    "track": "Trap Queen (Feat. Azealia Banks, Quavo & Gucci Mane) (Remix)",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "It's My Life",
+    "artist": "Bon Jovi"
+  },
+  {
+    "track": "Any Way You Want It",
+    "artist": "Journey"
+  },
+  {
+    "track": "Don't Stop Believin' (2008 Version)",
+    "artist": "Journey"
+  },
+  {
+    "track": "(I Just) Died In Your Arms",
+    "artist": "Cutting Crew"
+  },
+  {
+    "track": "I Love Rock 'N' Roll",
+    "artist": "Joan Jett"
+  },
+  {
+    "track": "Calling (Lose My Mind)",
+    "artist": "Sebastian Ingrosso & Alesso"
+  },
+  {
+    "track": "Move For Me",
+    "artist": "Kaskade & Deadmau5"
+  },
+  {
+    "track": "Fade Into Darkness (Instrumental Club Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Don't Stop Believin'",
+    "artist": "Journey"
+  },
+  {
+    "track": "Freedom (Feat. Kendrick Lamar)",
+    "artist": "Beyoncé"
+  },
+  {
+    "track": "Rock You Like A Hurricane",
+    "artist": "Scorpions"
+  },
+  {
+    "track": "Eye Of The Tiger",
+    "artist": "Survivor"
+  },
+  {
+    "track": "Photograph",
+    "artist": "Def Leppard"
+  },
+  {
+    "track": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses"
+  },
+  {
+    "track": "I Love Rock 'N' Roll",
+    "artist": "Joan Jett And The Blackhearts"
+  },
+  {
+    "track": "You Give Love A Bad Name",
+    "artist": "Bon Jovi"
+  },
+  {
+    "track": "Pour Some Sugar On Me",
+    "artist": "Def Leppard"
+  },
+  {
+    "track": "Everybody Wants To Rule The World (Extended Version)",
+    "artist": "Tears For Fears"
+  },
+  {
+    "track": "Got Money",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Enth E Nd",
+    "artist": "Linkin Park"
+  },
+  {
+    "track": "Or Nah (Feat. Wiz Khalifa & DJ Mustard)",
+    "artist": "Ty Dolla $ign"
+  },
+  {
+    "track": "Real Friends",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Wwyd",
+    "artist": "Rich Homie Quan"
+  },
+  {
+    "track": "I Don't Give A....",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "Change Locations",
+    "artist": "Drake & Future"
+  },
+  {
+    "track": "Nasty Freestyle",
+    "artist": "T-WAYNE"
+  },
+  {
+    "track": "Can't Stop Me",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Something In The Way You Move",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "The Nights (Extended Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "This Is What You Came For (Feat. Rihanna)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Flashback",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Where Are U Now (Feat. Justin Bieber)",
+    "artist": "Skrillex & Diplo"
+  },
+  {
+    "track": "Needed Me",
+    "artist": "Rihanna"
+  },
+  {
+    "track": "You & The 6",
+    "artist": "Drake"
+  },
+  {
+    "track": "Childs Play",
+    "artist": "Drake"
+  },
+  {
+    "track": "I'm The Plug",
+    "artist": "Drake & Future"
+  },
+  {
+    "track": "Bia' Bia'",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "6 Inch (Feat. The Weeknd)",
+    "artist": "Beyoncé"
+  },
+  {
+    "track": "Formation",
+    "artist": "Beyoncé"
+  },
+  {
+    "track": "Flex (Ooh, Ooh, Ooh) (KE On The Track Remix)",
+    "artist": "Rich Homie Quan"
+  },
+  {
+    "track": "My Way (Feat. Monty)",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "Good Day",
+    "artist": "Nappy Roots"
+  },
+  {
+    "track": "9",
+    "artist": "Drake"
+  },
+  {
+    "track": "Nightmares Of The Bottom",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Right Hand",
+    "artist": "Drake"
+  },
+  {
+    "track": "Ooh Aah (My Life Be Like)",
+    "artist": "Grits"
+  },
+  {
+    "track": "The Nights (Felix Jaehn Remix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Take Me Home (Feat. Bebe Rexha)",
+    "artist": "Cash Cash"
+  },
+  {
+    "track": "You & Me (Feat. Eliza Doolittle) (Flume Remix) (Future Bass 2015 Edit)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Flex (Ooh, Ooh, Ooh)",
+    "artist": "Rich Homie Quan"
+  },
+  {
+    "track": "Winner Take All",
+    "artist": "Nappy Roots"
+  },
+  {
+    "track": "Best Friend",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "One More Drink",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Duffle Bag Boy",
+    "artist": "Playaz Circle"
+  },
+  {
+    "track": "U Don't Know",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "No Lie (Feat. Drake)",
+    "artist": "2 Chainz"
+  },
+  {
+    "track": "Live From The Gutter",
+    "artist": "Drake & Future"
+  },
+  {
+    "track": "Knockin Heads Off",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "Lucifer",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "The Greatest",
+    "artist": "Futuristic"
+  },
+  {
+    "track": "Paradise",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "RGF Island",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "Headsprung",
+    "artist": "LL Cool J"
+  },
+  {
+    "track": "Knuck If You Buck (feat. Lil' Scrappy)",
+    "artist": "Crime Mob"
+  },
+  {
+    "track": "Jigga What / Faint",
+    "artist": "Jay-Z & Linkin Park"
+  },
+  {
+    "track": "Get Loose",
+    "artist": "T.I."
+  },
+  {
+    "track": "Head Bussa (feat. Lil' Jon)",
+    "artist": "Lil Scrappy & Trillville"
+  },
+  {
+    "track": "We Ready",
+    "artist": "Archie Eversole"
+  },
+  {
+    "track": "99 Problems",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Studio",
+    "artist": "ScHoolboy Q"
+  },
+  {
+    "track": "Awnaw",
+    "artist": "Nappy Roots"
+  },
+  {
+    "track": "Summer Sixteen",
+    "artist": "Drake"
+  },
+  {
+    "track": "Po' Folks",
+    "artist": "Nappy Roots"
+  },
+  {
+    "track": "Heart Of The City (Ain't No Love)",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Flashing Lights",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Shorty Wanna Ride",
+    "artist": "Young Buck"
+  },
+  {
+    "track": "679 (Feat. Monty)",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "Legend",
+    "artist": "Drake"
+  },
+  {
+    "track": "Neva Eva (feat. Lil Scrappy & Lil Jon)",
+    "artist": "Lil Scrappy & Trillville"
+  },
+  {
+    "track": "Paranoid",
+    "artist": "Ty Dolla $ign"
+  },
+  {
+    "track": "Win Some, Lose Some",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "Hotline Bling",
+    "artist": "Drake"
+  },
+  {
+    "track": "Brand New",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Numb / Encore",
+    "artist": "Jay-Z & Linkin Park"
+  },
+  {
+    "track": "Big Rings",
+    "artist": "Drake & Future"
+  },
+  {
+    "track": "My N**ga",
+    "artist": "YG"
+  },
+  {
+    "track": "Xxplosive",
+    "artist": "Dr. Dre"
+  },
+  {
+    "track": "Research (Feat. Ariana Grande)",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "What U Gon' Do",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "It Wasn't Me",
+    "artist": "Shaggy"
+  },
+  {
+    "track": "Presidential",
+    "artist": "YoungBloodz"
+  },
+  {
+    "track": "Started From The Bottom",
+    "artist": "Drake"
+  },
+  {
+    "track": "Out Of My Mind",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "Choices (Yup) (Feat. Snoop Dogg & 50 Cent) (Remix)",
+    "artist": "E-40"
+  },
+  {
+    "track": "Ice Cream Paint Job",
+    "artist": "Dorrough"
+  },
+  {
+    "track": "The Language",
+    "artist": "Drake"
+  },
+  {
+    "track": "Company (Feat. Travi$ Scott)",
+    "artist": "Drake"
+  },
+  {
+    "track": "John",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Bottoms Up",
+    "artist": "Trey Songz"
+  },
+  {
+    "track": "Otis",
+    "artist": "Kanye West & JAY-Z"
+  },
+  {
+    "track": "Remember The Name",
+    "artist": "Fort Minor"
+  },
+  {
+    "track": "Pound Cake / Paris Morton Music 2",
+    "artist": "Drake"
+  },
+  {
+    "track": "Like A Pimp",
+    "artist": "David Banner"
+  },
+  {
+    "track": "On To The Next One",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Izzo / In The End",
+    "artist": "Jay-Z & Linkin Park"
+  },
+  {
+    "track": "Quick To Back Down",
+    "artist": "Bravehearts"
+  },
+  {
+    "track": "Like Toy Soldiers",
+    "artist": "Eminem"
+  },
+  {
+    "track": "All Day (Feat. Theophilus London, Allan Kingdom & Paul McCartney)",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "All Of The Lights",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Feeling Good",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Creep",
+    "artist": "Radiohead"
+  },
+  {
+    "track": "Country Grammar (Reinvention) (feat. E-40)",
+    "artist": "Nelly"
+  },
+  {
+    "track": "What Is Love (7\" Mix)",
+    "artist": "Haddaway"
+  },
+  {
+    "track": "Good Life",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Choices (Yup)",
+    "artist": "E-40"
+  },
+  {
+    "track": "Pump It Up",
+    "artist": "Joe Budden"
+  },
+  {
+    "track": "Or Nah (Feat. The Weeknd, Wiz Khalifa And DJ Mustard) (Remix)",
+    "artist": "Ty Dolla $ign"
+  },
+  {
+    "track": "My N**ga (Remix)",
+    "artist": "YG"
+  },
+  {
+    "track": "Money To Blow",
+    "artist": "Birdman"
+  },
+  {
+    "track": "Jumpman",
+    "artist": "Drake & Future"
+  },
+  {
+    "track": "The Hills (Feat. Eminem) (Remix)",
+    "artist": "The Weeknd"
+  },
+  {
+    "track": "Bugatti",
+    "artist": "Ace Hood"
+  },
+  {
+    "track": "Drop The World",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "R.I.C.O. (Feat. Drake)",
+    "artist": "Meek Mill"
+  },
+  {
+    "track": "Grew Up A Screw Up",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Growing Pains",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Steady Mobbin' (Feat. Gucci Mane)",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Heroes (We Could Be) (Feat. Tove Lo) (Branchez Remix)",
+    "artist": "Alesso"
+  },
+  {
+    "track": "Love Me",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "The Motto (Remix)",
+    "artist": "Drake"
+  },
+  {
+    "track": "Game Over",
+    "artist": "Lil' Flip"
+  },
+  {
+    "track": "Through The Wire",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Meet The Parents",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Never Scared",
+    "artist": "Bone Crusher"
+  },
+  {
+    "track": "Don't You Worry Child",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Drunk In Love",
+    "artist": "Beyoncé"
+  },
+  {
+    "track": "The Antagonist II",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Real N**ga Roll Call",
+    "artist": "Lil Jon & The East Side Boyz"
+  },
+  {
+    "track": "Like A Pimp (Remix)",
+    "artist": "David Banner"
+  },
+  {
+    "track": "Wanna Be A Balla (Feat. Yungstar, Fat Pat & Big T)",
+    "artist": "Lil Troy"
+  },
+  {
+    "track": "Know Yourself",
+    "artist": "Drake"
+  },
+  {
+    "track": "Flawless Remix (Feat. Nicki Minaj)",
+    "artist": "Beyoncé"
+  },
+  {
+    "track": "Hard Knock Life",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Never Scared (The Takeover Remix)",
+    "artist": "Bone Crusher"
+  },
+  {
+    "track": "Pour It Up",
+    "artist": "Rihanna"
+  },
+  {
+    "track": "Feeling Myself (Feat. Beyonce)",
+    "artist": "Nicki Minaj"
+  },
+  {
+    "track": "Bandz A Make Her Dance",
+    "artist": "Juicy J"
+  },
+  {
+    "track": "Bruh...",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "No Problem",
+    "artist": "Lil Scrappy & Trillville"
+  },
+  {
+    "track": "Welcome To The World",
+    "artist": "T.I."
+  },
+  {
+    "track": "Oh Boy (Feat. Juelz Santana)",
+    "artist": "Cam'ron"
+  },
+  {
+    "track": "Damn!",
+    "artist": "YoungBloodz"
+  },
+  {
+    "track": "I'm A King",
+    "artist": "P$C"
+  },
+  {
+    "track": "Hanging On",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Silhouettes (Syn Cole Creamfields Mix Radio Edit)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Bigfoot",
+    "artist": "W&W"
+  },
+  {
+    "track": "The Home We Made, Pt. II",
+    "artist": "Crywolf"
+  },
+  {
+    "track": "Trap Queen",
+    "artist": "Fetty Wap"
+  },
+  {
+    "track": "Animals",
+    "artist": "Martin Garrix"
+  },
+  {
+    "track": "Fantasy (Felix Jaehn Remix)",
+    "artist": "Alina Baraz & Galimatias"
+  },
+  {
+    "track": "Act A Fool",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Waiting For Love",
+    "artist": "Avicii"
+  },
+  {
+    "track": "I Like The View",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Air Force Ones",
+    "artist": "Nelly"
+  },
+  {
+    "track": "I Need Your Love (Feat. Ellie Goulding)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Hot In Herre",
+    "artist": "Nelly"
+  },
+  {
+    "track": "Hey Ma (Feat. Juelz Santana, Freekey Zekey & Kay Slay)",
+    "artist": "Cam'ron"
+  },
+  {
+    "track": "Paradise (Extended)",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "No New Friends (SFTB Remix)",
+    "artist": "DJ Khaled"
+  },
+  {
+    "track": "Roses",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Pillow Talking (Feat. Brain)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Oh Well (Feat. Jace Of Two-9)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Ignition (Remix)",
+    "artist": "R. Kelly"
+  },
+  {
+    "track": "Truman",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Work (Paid For That?)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Who Knew",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Lemme Freak For Real Tho (Outro)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "The Antagonist",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Professional Rapper (Feat. Snoop Dogg)",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "White Crime",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Sure Thing",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "All I Got",
+    "artist": "Hendersin"
+  },
+  {
+    "track": "Wanna Be A Baller (Feat. Yungstar, Fat Pat & Big T)",
+    "artist": "Lil Troy"
+  },
+  {
+    "track": "Classic Male Pregame",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (Jai Wolf Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "No Tellin'",
+    "artist": "Drake"
+  },
+  {
+    "track": "Your Soul",
+    "artist": "Hippie Sabotage"
+  },
+  {
+    "track": "Elastic Heart",
+    "artist": "Sia"
+  },
+  {
+    "track": "Look At Me Now",
+    "artist": "Chris Brown"
+  },
+  {
+    "track": "Mr. Jones",
+    "artist": "Counting Crows"
+  },
+  {
+    "track": "Yellow Ledbetter",
+    "artist": "Pearl Jam"
+  },
+  {
+    "track": "Beyond The Veil",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Sour Patch Kids",
+    "artist": "Bryce Vine"
+  },
+  {
+    "track": "B**ch Better Have My Money",
+    "artist": "Rihanna"
+  },
+  {
+    "track": "Under The Bridge",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Money Maker",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Mockingbird",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Believe Me (Feat. Drake)",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "I Know (Feat. Jhene Aiko)",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "If You Could Only See",
+    "artist": "Tonic"
+  },
+  {
+    "track": "Where Do You Go",
+    "artist": "No Mercy"
+  },
+  {
+    "track": "There She Goes",
+    "artist": "The La's"
+  },
+  {
+    "track": "Follow You Down",
+    "artist": "Gin Blossoms"
+  },
+  {
+    "track": "Fly Away",
+    "artist": "Lenny Kravitz"
+  },
+  {
+    "track": "I Don't Want To Wait",
+    "artist": "Paula Cole"
+  },
+  {
+    "track": "Back 2 Good",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "track": "Mary Jane's Last Dance",
+    "artist": "Tom Petty"
+  },
+  {
+    "track": "As I Lay Me Down",
+    "artist": "Sophie B. Hawkins"
+  },
+  {
+    "track": "American Woman",
+    "artist": "Lenny Kravitz"
+  },
+  {
+    "track": "You Get What You Give",
+    "artist": "New Radicals"
+  },
+  {
+    "track": "1979",
+    "artist": "Smashing Pumpkins"
+  },
+  {
+    "track": "Little Miss Can't Be Wrong",
+    "artist": "Spin Doctors"
+  },
+  {
+    "track": "Summer Girls",
+    "artist": "LFO (Pop)"
+  },
+  {
+    "track": "Dreams",
+    "artist": "The Cranberries"
+  },
+  {
+    "track": "Hook",
+    "artist": "Blues Traveler"
+  },
+  {
+    "track": "Never Let You Go",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "track": "I Could Be The One (Nicktim) (Instrumental Mix)",
+    "artist": "Avicii & Nicky Romero"
+  },
+  {
+    "track": "Under The Sheets",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Butterfly",
+    "artist": "Crazy Town"
+  },
+  {
+    "track": "Semi-Charmed Life",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "track": "MegaMan",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "There She Goes",
+    "artist": "Sixpence None The Richer"
+  },
+  {
+    "track": "Stampede",
+    "artist": "Dimitri Vegas, Like Mike, DVBBS & Borgeous"
+  },
+  {
+    "track": "Fade Into Darkness (Vocal Radio Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Father Of Mine",
+    "artist": "Everclear"
+  },
+  {
+    "track": "Black Balloon",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "track": "Run Away",
+    "artist": "The Real McCoy"
+  },
+  {
+    "track": "Area Codes",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Run-Around",
+    "artist": "Blues Traveler"
+  },
+  {
+    "track": "Name",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "track": "Save Tonight",
+    "artist": "Eagle-Eye Cherry"
+  },
+  {
+    "track": "Roll To Me",
+    "artist": "Del Amitri"
+  },
+  {
+    "track": "Meet Virginia",
+    "artist": "Train"
+  },
+  {
+    "track": "Hurt",
+    "artist": "T.I."
+  },
+  {
+    "track": "Closing Time",
+    "artist": "Semisonic"
+  },
+  {
+    "track": "Ghosts 'n' Stuff (Nero Remix)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Hustler Musik",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Levels (Cazzette's NYC Mode Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Breakfast At Tiffany's",
+    "artist": "Deep Blue Something"
+  },
+  {
+    "track": "Push",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "track": "Good Vibrations",
+    "artist": "Marky Mark & The Funky Bunch"
+  },
+  {
+    "track": "Be Like That",
+    "artist": "3 Doors Down"
+  },
+  {
+    "track": "Only Wanna Be With You",
+    "artist": "Hootie & The Blowfish"
+  },
+  {
+    "track": "3 AM",
+    "artist": "Matchbox Twenty"
+  },
+  {
+    "track": "Lean On (Feat. MØ & DJ Snake)",
+    "artist": "Major Lazer"
+  },
+  {
+    "track": "My Boo",
+    "artist": "Usher"
+  },
+  {
+    "track": "One Week",
+    "artist": "Barenaked Ladies"
+  },
+  {
+    "track": "Another Night",
+    "artist": "The Real McCoy"
+  },
+  {
+    "track": "Every Morning",
+    "artist": "Sugar Ray"
+  },
+  {
+    "track": "Waterfalls",
+    "artist": "TLC"
+  },
+  {
+    "track": "Two Princes",
+    "artist": "Spin Doctors"
+  },
+  {
+    "track": "Drive",
+    "artist": "Incubus"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (Big Wild Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Good Vibrations (Featuring Loletta Holloway)",
+    "artist": "Marky Mark & The Funky Bunch"
+  },
+  {
+    "track": "I Love You Always Forever",
+    "artist": "Donna Lewis"
+  },
+  {
+    "track": "Don't Speak",
+    "artist": "No Doubt"
+  },
+  {
+    "track": "Iris",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "track": "Torn",
+    "artist": "Natalie Imbruglia"
+  },
+  {
+    "track": "Ironic",
+    "artist": "Alanis Morissette"
+  },
+  {
+    "track": "Give Me One Reason",
+    "artist": "Tracy Chapman"
+  },
+  {
+    "track": "Hold My Hand",
+    "artist": "Hootie & The Blowfish"
+  },
+  {
+    "track": "Bitter Sweet Symphony",
+    "artist": "The Verve"
+  },
+  {
+    "track": "One Headlight",
+    "artist": "The Wallflowers"
+  },
+  {
+    "track": "How's It Going To Be",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "track": "You Learn",
+    "artist": "Alanis Morissette"
+  },
+  {
+    "track": "Izzo (H.O.V.A.)",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "6 Foot 7 Foot",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Back That Azz Up",
+    "artist": "Juvenile"
+  },
+  {
+    "track": "No Rain",
+    "artist": "Blind Melon"
+  },
+  {
+    "track": "You Oughta Know",
+    "artist": "Alanis Morissette"
+  },
+  {
+    "track": "Let Her Cry",
+    "artist": "Hootie & The Blowfish"
+  },
+  {
+    "track": "Scar Tissue",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "Head Over Feet",
+    "artist": "Alanis Morissette"
+  },
+  {
+    "track": "What's My Age Again?",
+    "artist": "Blink-182"
+  },
+  {
+    "track": "Slide",
+    "artist": "The Goo Goo Dolls"
+  },
+  {
+    "track": "Otherside",
+    "artist": "Red Hot Chili Peppers"
+  },
+  {
+    "track": "The World I Know",
+    "artist": "Collective Soul"
+  },
+  {
+    "track": "She's So High",
+    "artist": "Tal Bachman"
+  },
+  {
+    "track": "Good Riddance (Time Of Your Life)",
+    "artist": "Green Day"
+  },
+  {
+    "track": "What It's Like",
+    "artist": "Everlast"
+  },
+  {
+    "track": "All Star",
+    "artist": "Smash Mouth"
+  },
+  {
+    "track": "December",
+    "artist": "Collective Soul"
+  },
+  {
+    "track": "Blame (Feat. John Newman)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Levels (Instrumental)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Energy",
+    "artist": "Drake"
+  },
+  {
+    "track": "The Night Out (A-Trak Remix)",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "All I Do Is Win",
+    "artist": "DJ Khaled"
+  },
+  {
+    "track": "Blessings (Feat. Drake)",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "Slow Jamz",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Wasted",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Ho",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Hands On The Wheel (Feat. Asap Rocky)",
+    "artist": "ScHoolboy Q"
+  },
+  {
+    "track": "I Don't F**k With You (Feat. E-40)",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "Bill Gates",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Swag Surf",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "So Fly",
+    "artist": "213"
+  },
+  {
+    "track": "I'm Goin In",
+    "artist": "Drake"
+  },
+  {
+    "track": "Stay The Night",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Bring Em Out",
+    "artist": "T.I."
+  },
+  {
+    "track": "Silhouettes (Lazy Rich Remix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "10 Bands",
+    "artist": "Drake"
+  },
+  {
+    "track": "Flashback (Radio Edit)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "HyperParadise",
+    "artist": "Hermitude"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (GANZ Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Fantasy",
+    "artist": "Alina Baraz & Galimatias"
+  },
+  {
+    "track": "Surrender",
+    "artist": "Cash Cash"
+  },
+  {
+    "track": "Stereo Love",
+    "artist": "Edward Maya & Vika Jigulina"
+  },
+  {
+    "track": "This Is What It Feels Like (W&W Remix)",
+    "artist": "Armin Van Buuren"
+  },
+  {
+    "track": "Tortuga (Radio Edit)",
+    "artist": "DoubleV & Formal One"
+  },
+  {
+    "track": "International (Radio Edit)",
+    "artist": "JETFIRE & Happy Enemies"
+  },
+  {
+    "track": "Stan",
+    "artist": "Eminem"
+  },
+  {
+    "track": "POWER",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (Emancipator Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Do Or Die (Afrojack Vs. THIRTY SECONDS TO MARS Remix)",
+    "artist": "Afrojack & Thirty Seconds to Mars"
+  },
+  {
+    "track": "Intro",
+    "artist": "The xx"
+  },
+  {
+    "track": "Just A Lil Bit",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "Big Things Poppin' (Do It)",
+    "artist": "T.I."
+  },
+  {
+    "track": "Blunt Blowin",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Overnight Celebrity",
+    "artist": "Twista"
+  },
+  {
+    "track": "Fireman",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Go Get It",
+    "artist": "T.I."
+  },
+  {
+    "track": "Sing For The Moment",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Forgot About Dre",
+    "artist": "Dr. Dre"
+  },
+  {
+    "track": "How Bout Now",
+    "artist": "Drake"
+  },
+  {
+    "track": "Sunshine",
+    "artist": "Lil' Flip"
+  },
+  {
+    "track": "Muthafucka Up",
+    "artist": "Tyga"
+  },
+  {
+    "track": "Miss Me",
+    "artist": "Drake"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (Hermitude Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "0 To 100/The Catch Up",
+    "artist": "Drake"
+  },
+  {
+    "track": "Beware",
+    "artist": "Big Sean"
+  },
+  {
+    "track": "Saturday (Oooh Oooh!)",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Mo Money Mo Problems",
+    "artist": "The Notorious B.I.G."
+  },
+  {
+    "track": "Regulate (Jammin' Remix)",
+    "artist": "Warren G"
+  },
+  {
+    "track": "I'm Flexin'",
+    "artist": "T.I."
+  },
+  {
+    "track": "Break Ya Neck",
+    "artist": "Busta Rhymes"
+  },
+  {
+    "track": "It Was A Good Day",
+    "artist": "Ice Cube"
+  },
+  {
+    "track": "Lemme Freak",
+    "artist": "Lil Dicky"
+  },
+  {
+    "track": "Go DJ",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "We Takin' Over",
+    "artist": "DJ Khaled"
+  },
+  {
+    "track": "Mr. Carter",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "HYFR (Hell Ya F**king Right) (feat. Lil Wayne)",
+    "artist": "Drake"
+  },
+  {
+    "track": "Slow Motion (Remix)",
+    "artist": "Juvenile"
+  },
+  {
+    "track": "I'm On One",
+    "artist": "DJ Khaled"
+  },
+  {
+    "track": "Shake That",
+    "artist": "Eminem"
+  },
+  {
+    "track": "How Low (Remix)",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Opposite Of Adults",
+    "artist": "Chiddy Bang"
+  },
+  {
+    "track": "My Life Your Entertainment",
+    "artist": "T.I."
+  },
+  {
+    "track": "Lollipop",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "You Used To Hold Me (Edit)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Outside (Feat. Ellie Goulding)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "No Hands (Feat. Roscoe Dash And Wale)",
+    "artist": "Waka Flocka Flame"
+  },
+  {
+    "track": "Headlines",
+    "artist": "Drake"
+  },
+  {
+    "track": "Beautiful",
+    "artist": "Snoop Dogg"
+  },
+  {
+    "track": "Erase Me",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "Run This Town",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Over",
+    "artist": "Drake"
+  },
+  {
+    "track": "Splash Waterfalls",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Go Getta",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Alive (Nightmare)",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "Top Back",
+    "artist": "T.I."
+  },
+  {
+    "track": "Can't Let You Go (Feat. Mike Shorey & Lil' Mo)",
+    "artist": "Fabolous"
+  },
+  {
+    "track": "Move B***h",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Rubber Band Man",
+    "artist": "T.I."
+  },
+  {
+    "track": "My Chick Bad",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Habits (Stay High) (Hippie Sabotage Remix)",
+    "artist": "Tove Lo"
+  },
+  {
+    "track": "Dat New 'New'",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "Forever",
+    "artist": "Drake"
+  },
+  {
+    "track": "My Name Is",
+    "artist": "Eminem"
+  },
+  {
+    "track": "Empire State Of Mind",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "24's",
+    "artist": "T.I."
+  },
+  {
+    "track": "Hey Ya!",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Simple As...",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "The Way That I Am",
+    "artist": "Tove Lo"
+  },
+  {
+    "track": "GDFR (Feat. Sage The Gemini & Lookas)",
+    "artist": "Flo Rida"
+  },
+  {
+    "track": "Strange Clouds",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "I Got 5 On It",
+    "artist": "Luniz"
+  },
+  {
+    "track": "Still D.R.E.",
+    "artist": "Dr. Dre"
+  },
+  {
+    "track": "Southern Hospitality",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "All Falls Down",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "Pimpin' All Over The World",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Dilemma (Nelly feat. Kelly Rowland)",
+    "artist": "Kelly Rowland"
+  },
+  {
+    "track": "Big Pimpin",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "You Know What It Is",
+    "artist": "T.I."
+  },
+  {
+    "track": "Trap Star",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Disco Inferno",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "Blueberry Yum Yum",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Dirt Off Your Shoulder",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Ms. Jackson",
+    "artist": "Outkast"
+  },
+  {
+    "track": "Lose Yourself",
+    "artist": "Eminem"
+  },
+  {
+    "track": "You Know How We Do It",
+    "artist": "Ice Cube"
+  },
+  {
+    "track": "How Low",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Fly",
+    "artist": "Sugar Ray"
+  },
+  {
+    "track": "Jumper",
+    "artist": "Third Eye Blind"
+  },
+  {
+    "track": "Inside Out",
+    "artist": "Eve 6"
+  },
+  {
+    "track": "Roll Out (My Business)",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Ohh Ahh (Remix)",
+    "artist": "Grits"
+  },
+  {
+    "track": "Habits (Stay High)",
+    "artist": "Tove Lo"
+  },
+  {
+    "track": "She Will",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Ride Wit Me",
+    "artist": "T.I."
+  },
+  {
+    "track": "U Don't Know Me",
+    "artist": "T.I."
+  },
+  {
+    "track": "Too Much",
+    "artist": "Drake"
+  },
+  {
+    "track": "Always On Time",
+    "artist": "Ja Rule"
+  },
+  {
+    "track": "Can I Get A...",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Ride Wit Me",
+    "artist": "Nelly"
+  },
+  {
+    "track": "Right Above It",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Holy Grail",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "ASAP",
+    "artist": "T.I."
+  },
+  {
+    "track": "What You Know",
+    "artist": "T.I."
+  },
+  {
+    "track": "No Mediocre (Feat. Iggy Azalea)",
+    "artist": "T.I."
+  },
+  {
+    "track": "Amazin'",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "Superman",
+    "artist": "Eminem"
+  },
+  {
+    "track": "I'm Me",
+    "artist": "Lil Wayne"
+  },
+  {
+    "track": "Yeah Ya Know",
+    "artist": "T.I."
+  },
+  {
+    "track": "Welcome To Atlanta",
+    "artist": "Jermaine Dupri"
+  },
+  {
+    "track": "Get Back",
+    "artist": "Ludacris"
+  },
+  {
+    "track": "Trophies",
+    "artist": "Young Money"
+  },
+  {
+    "track": "Heroes (We Could Be) (Feat. Tove Lo)",
+    "artist": "Alesso"
+  },
+  {
+    "track": "Ooh Ahh (My Life Be Like)",
+    "artist": "Grits"
+  },
+  {
+    "track": "Headband",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "21 Questions",
+    "artist": "50 Cent"
+  },
+  {
+    "track": "I'm Illy",
+    "artist": "T.I."
+  },
+  {
+    "track": "Ready For Whatever",
+    "artist": "T.I."
+  },
+  {
+    "track": "Motivation",
+    "artist": "T.I."
+  },
+  {
+    "track": "Frontin'",
+    "artist": "Pharrell Williams"
+  },
+  {
+    "track": "Day 'N' Nite",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "All Me",
+    "artist": "Drake"
+  },
+  {
+    "track": "Fight Night",
+    "artist": "Migos"
+  },
+  {
+    "track": "One Eight Seven",
+    "artist": "Dr. Dre"
+  },
+  {
+    "track": "The Motto",
+    "artist": "Drake"
+  },
+  {
+    "track": "On Top Of The World",
+    "artist": "T.I."
+  },
+  {
+    "track": "Regulate (G-Funk Remix)",
+    "artist": "Warren G"
+  },
+  {
+    "track": "Keep Their Heads Ringin'",
+    "artist": "Dr. Dre"
+  },
+  {
+    "track": "Who Am I (What's My Name)?",
+    "artist": "Snoop Dogg"
+  },
+  {
+    "track": "How We Do",
+    "artist": "The Game"
+  },
+  {
+    "track": "Every Chance I Get",
+    "artist": "T.I."
+  },
+  {
+    "track": "Make Me Proud",
+    "artist": "Drake"
+  },
+  {
+    "track": "Can't Tell Me Nothing",
+    "artist": "Kanye West"
+  },
+  {
+    "track": "I'm Back",
+    "artist": "T.I."
+  },
+  {
+    "track": "No Matter What",
+    "artist": "T.I."
+  },
+  {
+    "track": "I'm A King (Remix)",
+    "artist": "P$C"
+  },
+  {
+    "track": "Regulate (Feat. Nate Dogg)",
+    "artist": "Warren G"
+  },
+  {
+    "track": "Ray Bands",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "Soundtrack 2 My Life",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "Gin & Juice",
+    "artist": "Snoop Dogg"
+  },
+  {
+    "track": "Young, Wild & Free",
+    "artist": "Snoop Dogg & Wiz Khalifa"
+  },
+  {
+    "track": "So Good",
+    "artist": "B.o.B"
+  },
+  {
+    "track": "Pursuit Of Happiness (Nightmare)",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "The Prayer",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "I Just Wanna Love U (Give It 2 Me)",
+    "artist": "Jay-Z"
+  },
+  {
+    "track": "Tuesday (Feat. Drake)",
+    "artist": "I LOVE MAKONNEN"
+  },
+  {
+    "track": "Eyes On Fire",
+    "artist": "Blue Foundation"
+  },
+  {
+    "track": "This Is What It Feels Like (Feat. Trevor Guthrie)",
+    "artist": "Armin Van Buuren"
+  },
+  {
+    "track": "Adagio For Tron",
+    "artist": "Teddybears"
+  },
+  {
+    "track": "Shy Boy",
+    "artist": "District 78"
+  },
+  {
+    "track": "Save The World (Knife Party Remix)",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Derezzed",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Titan",
+    "artist": "Blasterjaxx & Badd Dimes"
+  },
+  {
+    "track": "Revolution (Feat. Faustix & Imanos & Kai)",
+    "artist": "Diplo"
+  },
+  {
+    "track": "Bromance (Aviciis Arena Mix)",
+    "artist": "Tim Berg"
+  },
+  {
+    "track": "Tsunami",
+    "artist": "DVBBS & Borgeous"
+  },
+  {
+    "track": "Fade Into Darkness (Vocal Club Mix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Play Hard (Spencer & Hill Remix)",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "Come With Me (Deadmeat) (Jidax Remix)",
+    "artist": "Steve Aoki"
+  },
+  {
+    "track": "Bulletproof (Dave Aude Cherry Radio Remix)",
+    "artist": "La Roux"
+  },
+  {
+    "track": "Zi Zi's Journey",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "You've Got The Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "What The Water Gave Me",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Revolution (Panic City Remix)",
+    "artist": "Diplo"
+  },
+  {
+    "track": "Spectrum (Extended Mix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Seek Bromance (Avicii Vocal Extended)",
+    "artist": "Tim Berg"
+  },
+  {
+    "track": "Heavy In Your Arms",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Come With Me (Deadmeat) (Deorro Remix)",
+    "artist": "Steve Aoki"
+  },
+  {
+    "track": "Wake Me Up (Avicii Speed Remix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Breath Of Life",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Over The Love",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "In For The Kill (Skrillex Remix)",
+    "artist": "La Roux"
+  },
+  {
+    "track": "Young And Beautiful",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "track": "Set Yourself Free",
+    "artist": "Tiesto"
+  },
+  {
+    "track": "Say My Name (Feat. Zyra) (Ambassadeurs Remix)",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Minimal Beat",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "In For The Kill (Danger's Ocean Remix)",
+    "artist": "La Roux"
+  },
+  {
+    "track": "Cry For You (Jackal Remix Short)",
+    "artist": "September"
+  },
+  {
+    "track": "Elements",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Bloom",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Take Over Control",
+    "artist": "Afrojack"
+  },
+  {
+    "track": "Under Control",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Eyes On Fire (Zeds Dead Remix)",
+    "artist": "Blue Foundation"
+  },
+  {
+    "track": "Bulletproof",
+    "artist": "La Roux"
+  },
+  {
+    "track": "I Feel It",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Sacred River",
+    "artist": "Blackmill"
+  },
+  {
+    "track": "My Friends Never Die",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "Find You (Kevin Drew Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "In For The Kill (Skream's Let's Get Ravey Remix)",
+    "artist": "La Roux"
+  },
+  {
+    "track": "Journey's End",
+    "artist": "Blackmill"
+  },
+  {
+    "track": "Hourglass",
+    "artist": "Zedd"
+  },
+  {
+    "track": "I Can't Stop",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Crystallize",
+    "artist": "Lindsey Stirling"
+  },
+  {
+    "track": "Heart Of A Lion (Kid Cudi Theme Music)",
+    "artist": "Kid Cudi"
+  },
+  {
+    "track": "We'll Be Coming Back (R3hab EDC Vegas Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Heads Will Roll (A-Trak Dub Mix)",
+    "artist": "Yeah Yeah Yeahs"
+  },
+  {
+    "track": "Black & Yellow",
+    "artist": "Josh Vietti"
+  },
+  {
+    "track": "Without You",
+    "artist": "ODESZA"
+  },
+  {
+    "track": "HyperParadise (Flume Remix)",
+    "artist": "Hermitude"
+  },
+  {
+    "track": "One",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Zelda (Hardwell Edit)",
+    "artist": "NO_ID & Martin Volt"
+  },
+  {
+    "track": "White Noise (Feat. AlunaGeorge) (HudMo Remix)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Echoes",
+    "artist": "Tiesto"
+  },
+  {
+    "track": "Take You Higher (Radio Edit)",
+    "artist": "Goodwill & Hook N Sling"
+  },
+  {
+    "track": "Midas Touch (Ellie Goulding X BURNS)",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Shake It Out",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Flesh And Bones",
+    "artist": "Blackmill"
+  },
+  {
+    "track": "Flashlight",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Hey Brother (Extended Version)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Let It Be",
+    "artist": "Blackmill"
+  },
+  {
+    "track": "I Will Be Here (Wolfgang Gartner Remix)",
+    "artist": "Tiesto"
+  },
+  {
+    "track": "Latch (Feat. Sam Smith) (Jamie Jones Remix)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "Ladi Dadi (Tommy Trash Remix)",
+    "artist": "Steve Aoki"
+  },
+  {
+    "track": "Last Chance (Digital LAB Remix)",
+    "artist": "Kaskade & Project 46"
+  },
+  {
+    "track": "High You Are (Branchez Remix)",
+    "artist": "What So Not"
+  },
+  {
+    "track": "I Still Can't Stop",
+    "artist": "Flux Pavilion"
+  },
+  {
+    "track": "Cry For You (Radio Mix)",
+    "artist": "September"
+  },
+  {
+    "track": "Heads Will Roll (A-Trak Remix)",
+    "artist": "Yeah Yeah Yeahs"
+  },
+  {
+    "track": "Clarity (Swanky Tunes Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Follow You Down",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Pair Of Dice (Radio Edit)",
+    "artist": "Tiesto & Allure"
+  },
+  {
+    "track": "Latch (Feat. Sam Smith) (DJ Premier Remix)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "If I Lose Myself (Alesso Vs OneRepublic Extended Remix)",
+    "artist": "OneRepublic & Alesso"
+  },
+  {
+    "track": "Summer (Extended Mix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Animal Rights",
+    "artist": "Deadmau5 & Wolfgang Gartner"
+  },
+  {
+    "track": "Last Chance",
+    "artist": "Kaskade & Project 46"
+  },
+  {
+    "track": "She Wolf (Falling To Pieces) (Extended)",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "Maps",
+    "artist": "Yeah Yeah Yeahs"
+  },
+  {
+    "track": "Clarity (Nick Thayer Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Heads Will Roll",
+    "artist": "Yeah Yeah Yeahs"
+  },
+  {
+    "track": "Must Be The Feeling (Kill The Noise Remix)",
+    "artist": "Nero"
+  },
+  {
+    "track": "A Town Called Paradise",
+    "artist": "Tiesto"
+  },
+  {
+    "track": "Bangarang",
+    "artist": "Skrillex"
+  },
+  {
+    "track": "Clarity (Brillz Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Alive (Jakob Liedholm Remix)",
+    "artist": "Krewella"
+  },
+  {
+    "track": "Can't Stop Me (R3hab & Dyro Mix)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Spectrum (Deniz Koyu Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Must Be The Feeling (Flux Pavilion & Nero Remix)",
+    "artist": "Nero"
+  },
+  {
+    "track": "Play Hard (Maurizio Gubellini Remix)",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "Gold Dust (Flux Pavilion Remix)",
+    "artist": "DJ Fresh (UK)"
+  },
+  {
+    "track": "Memories (Extended)",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "I Luv It",
+    "artist": "Young Jeezy"
+  },
+  {
+    "track": "My Feelings For You (Radio Edit)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Feel So Close (Benny Benassi Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "X You",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Drumming Song",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "She Wolf (Falling To Pieces)",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "Take Over Control (Feat. Eva Simons) (Radio Edit)",
+    "artist": "Afrojack"
+  },
+  {
+    "track": "I Could Be The One (Nicktim) (Didrick Remix)",
+    "artist": "Avicii & Nicky Romero"
+  },
+  {
+    "track": "Levels (Skrillex Remix)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "I Could Be The One (Nicktim)",
+    "artist": "Avicii & Nicky Romero"
+  },
+  {
+    "track": "Gold",
+    "artist": "Adventure Club"
+  },
+  {
+    "track": "Starry Eyed",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Clarity (Felix Cartal Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "The Night Out (A-Trak Vs. Martin Rework)",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "All Night (Cash Cash Radio Edit)",
+    "artist": "Icona Pop"
+  },
+  {
+    "track": "Collide (Extended Dub Mix)",
+    "artist": "Leona Lewis"
+  },
+  {
+    "track": "Feel So Close (Nero Dub)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Tessellate",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Fall Into The Sky",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Sunrise (Won't Get Lost) (Tommy Trash Version)",
+    "artist": "The Aston Shuffle & Tommy Trash"
+  },
+  {
+    "track": "Last Chance (Radio Edit)",
+    "artist": "Kaskade & Project 46"
+  },
+  {
+    "track": "Lights (Bassnectar Remix)",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Sweet Talk",
+    "artist": "Kito & Reija Lee"
+  },
+  {
+    "track": "Can't Stop Me (Club MIx)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Some Chords",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Years",
+    "artist": "Alesso"
+  },
+  {
+    "track": "Can't Stop Me (Club Mix, No Rap)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Seek Bromance (Avicii Vocal Edit)",
+    "artist": "Tim Berg"
+  },
+  {
+    "track": "Spectrum (Armin Van Buuren Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Take You Higher (Club Mix)",
+    "artist": "Goodwill & Hook N Sling"
+  },
+  {
+    "track": "X You (Radio Edit)",
+    "artist": "Avicii"
+  },
+  {
+    "track": "Cinema (Feat. Gary Go) (Skrillex Remix)",
+    "artist": "Benny Benassi"
+  },
+  {
+    "track": "Every Teardrop Is A Waterfall",
+    "artist": "Coldplay Vs. Swedish House Mafia"
+  },
+  {
+    "track": "City Of Dreams (Jacques Lucont Remix)",
+    "artist": "Dirty South & Alesso"
+  },
+  {
+    "track": "Apollo (Radio Edit)",
+    "artist": "Hardwell"
+  },
+  {
+    "track": "Can't Stop Me (Afrojack + Buddha)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Thinking About You (Feat. Ayah Marar)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Embrace Me (Dirty South Remix)",
+    "artist": "John Dahlback"
+  },
+  {
+    "track": "Thunder (Radio Edit)",
+    "artist": "W&W"
+  },
+  {
+    "track": "Feeling Good (Bassnectar Remix)",
+    "artist": "Nina Simone"
+  },
+  {
+    "track": "Ghosts 'n' Stuff (Original Instrumental Mix)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "You My Everything",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Every Chance We Get We Run",
+    "artist": "David Guetta & Alesso"
+  },
+  {
+    "track": "Hey Brother",
+    "artist": "Avicii"
+  },
+  {
+    "track": "We'll Be Coming Back",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Latch (Feat. Sam Smith)",
+    "artist": "Disclosure"
+  },
+  {
+    "track": "In My Mind (Axwell Mix)",
+    "artist": "Ivan Gough & Feenixpawl"
+  },
+  {
+    "track": "Reload (Vocal Version / Radio Edit)",
+    "artist": "Sebastian Ingrosso, Tommy Trash & John Martin"
+  },
+  {
+    "track": "My Blood",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Moar Ghosts 'n' Stuff",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Cracks (Flux Pavilion Remix)",
+    "artist": "Freestylers"
+  },
+  {
+    "track": "Clarity (Headhunterz Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Promises",
+    "artist": "Nero"
+  },
+  {
+    "track": "Dog Days Are Over",
+    "artist": "Florence + The Machine"
+  },
+  {
+    "track": "Can't Stop Me (Afrojack + Buddha Radio Edit)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "I Could Be The One (Nicktim) (Radio Edit)",
+    "artist": "Avicii & Nicky Romero"
+  },
+  {
+    "track": "Calling (Lose My Mind) (Extended Club Mix)",
+    "artist": "Sebastian Ingrosso, Alesso & Ryan Tedder"
+  },
+  {
+    "track": "Can't Stop Me (Radio Edit)",
+    "artist": "Afrojack & Shermanology"
+  },
+  {
+    "track": "Ghosts 'n' Stuff (Radio Edit)",
+    "artist": "Deadmau5"
+  },
+  {
+    "track": "Sweet Nothing (Feat. Florence Welch) (Diplo + Grandtheft Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "My Own Worst Enemy",
+    "artist": "Lit"
+  },
+  {
+    "track": "All For You",
+    "artist": "Sister Hazel"
+  },
+  {
+    "track": "Wonderwall",
+    "artist": "Oasis"
+  },
+  {
+    "track": "Turn It Down",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "We'll Be Coming Back (Original Extended Mix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Save The World (Extended Mix)",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "The Night Out (Maison & Dragen Remix)",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "Only You",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Cinema (Feat. Gary Go)",
+    "artist": "Benny Benassi"
+  },
+  {
+    "track": "Pressure (Alesso Remix)",
+    "artist": "Alex Kenji, Starkillers & Nadia Ali"
+  },
+  {
+    "track": "Too Close",
+    "artist": "Alex Clare"
+  },
+  {
+    "track": "Summer",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Summertime Sadness",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "track": "Push Play",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Figure 8",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Need Your Heart",
+    "artist": "Adventure Club"
+  },
+  {
+    "track": "The Longest Road (Deadmau5 Remix Radio Edit)",
+    "artist": "Morgan Page"
+  },
+  {
+    "track": "Alive",
+    "artist": "Krewella"
+  },
+  {
+    "track": "Clarity (Zedd Union Mix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "We'll Be Coming Back (R3hab EDC NYC Remix)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Turn It Down (Le Castle Vania Remix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "Levels",
+    "artist": "Avicii"
+  },
+  {
+    "track": "In My City",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "City Of Dreams",
+    "artist": "Dirty South & Alesso"
+  },
+  {
+    "track": "Take Over Control (Feat. Eva Simons) (Extended)",
+    "artist": "Afrojack"
+  },
+  {
+    "track": "Clarity",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Lights (Single Version)",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Glory And Gore",
+    "artist": "Lorde"
+  },
+  {
+    "track": "City Of Dreams (Radio Edit)",
+    "artist": "Dirty South & Alesso"
+  },
+  {
+    "track": "Bounce",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Fire In Your New Shoes (Sultan & Ned Shepard's Electric Daisy Remix)",
+    "artist": "Kaskade"
+  },
+  {
+    "track": "The Night Out (Madeon Remix)",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "One (Your Name) (Vocal Mix)",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Sweet Nothing (Feat. Florence Welch)",
+    "artist": "Calvin Harris"
+  },
+  {
+    "track": "Titanium",
+    "artist": "David Guetta"
+  },
+  {
+    "track": "This Is What It Feels Like (Giuseppe Ottaviani Radio Edit)",
+    "artist": "Armin Van Buuren"
+  },
+  {
+    "track": "The Night Out (Single Version)",
+    "artist": "Martin Solveig"
+  },
+  {
+    "track": "Anything Could Happen",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Save The World (Radio Mix)",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Clarity (Shreddie Mercury Remix)",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Crave You (Adventure Club Dubstep Remix)",
+    "artist": "Flight Facilities"
+  },
+  {
+    "track": "Calling (Lose My Mind) (Radio Edit)",
+    "artist": "Sebastian Ingrosso & Alesso"
+  },
+  {
+    "track": "Don't You Worry Child (Radio Edit)",
+    "artist": "Swedish House Mafia"
+  },
+  {
+    "track": "Spectrum",
+    "artist": "Zedd"
+  },
+  {
+    "track": "Young And Beautiful (DH Orchestral Version)",
+    "artist": "Lana Del Rey"
+  },
+  {
+    "track": "Promises (Skrillex & Nero Remix)",
+    "artist": "Nero"
+  },
+  {
+    "track": "Lights",
+    "artist": "Ellie Goulding"
+  },
+  {
+    "track": "Silhouettes",
+    "artist": "Avicii"
+  }
+]
+}
